@@ -1,2 +1,3 @@
 # blog
 Create own template for blog
+That's all stuff in the moment...
